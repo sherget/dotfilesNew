@@ -20,3 +20,4 @@ My dotfiles ya no?
 * Karabiner
 * Amethyst
 
+# Just a test
